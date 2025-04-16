@@ -3,7 +3,7 @@ import { motion } from "../../../node_modules/framer-motion/dist/framer-motion";
 const MobileMenu = () => {
   return (
     <>
-      <motion.div
+      {/* <motion.div
         initial={{ x: "100%" }}
         animate={{ x: "0" }}
         transition={{ x: { duration: 0.4 } }}
@@ -57,7 +57,7 @@ const MobileMenu = () => {
             Resume
           </button>
         </div>
-      </motion.div>
+      </motion.div> */}
     </>
   );
 };
