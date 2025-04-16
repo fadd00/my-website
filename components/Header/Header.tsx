@@ -49,7 +49,7 @@ const Header = () => {
   return (
     <>
       {/* Mobile visible Navbar */}
-      <MobileMenu rotate={rotate} setRotate={setRotate} />
+      {/* <MobileMenu rotate={rotate} setRotate={setRotate} /> */}
       {/* This parent element for Menu */}
       <div
         ref={RefNavBar}
