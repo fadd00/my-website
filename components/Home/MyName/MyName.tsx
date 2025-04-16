@@ -56,7 +56,7 @@ export default function MyName() {
             {/* <br className="md:block hidden" /> (and occasionally designing)
             exceptional digital experiences. Currently.{" "} */}
             <br className="md:block hidden" />
-            I&apos;m focused on creating and deploying{" "}
+            I&apos;m focused on creating and depstroying{" "}
             {/* <span className="text-AAsecondary">Smart Contracts</span> on the
             Blockchain. */}
           </motion.span>
