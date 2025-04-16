@@ -4,6 +4,7 @@ import MyName from "../components/Home/MyName/MyName";
 import { useEffect, useState } from "react";
 import SocialMediaEmail from "../components/Home/SocialMediaArround/SocialMediaEmail";
 import AboutMe from "../components/Home/AboutMe/AboutMe";
+import { SpeedInsights } from "@vercel/speed-insights/next";
 export default function Home() {
   const [ShowElement, setShowElement] = useState(true);
   useEffect(() => {
