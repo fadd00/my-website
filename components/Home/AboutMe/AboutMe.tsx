@@ -61,7 +61,7 @@ export default function AboutMe() {
               </div>
               <div className="font-Header tracking-wide">
                 <span className="text-gray-400  ">
-                  Here are a few THING i have been working on:
+                  Here are a few THING i have been studying on:
                 </span>
               </div>
               <div className="font-Header tracking-wide flex flex-row space-x-16">
